@@ -1,0 +1,44 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.22/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.22/Modules/CMakeConfigurableFile.in
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.22/Modules/CMakeDetermineCompileFeatures.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.22/Modules/CMakeFindDependencyMacro.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.22/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.22/Modules/CPack.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.22/Modules/CPackComponent.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.22/Modules/CheckCXXSourceCompiles.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.22/Modules/CheckFunctionExists.c
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.22/Modules/CheckFunctionExists.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.22/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.22/Modules/CheckSymbolExists.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.22/Modules/FindPackageMessage.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.22/Modules/FindPostgreSQL.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.22/Modules/GNUInstallDirs.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.22/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.22/Modules/Internal/FeatureTesting.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.22/Modules/SelectLibraryConfigurations.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.22/Modules/WriteBasicConfigVersionFile.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.22/Templates/CPackConfig.cmake.in
+C:/libpqxx/libpqxx-7.7.4/CMakeLists.txt
+C:/libpqxx/libpqxx-7.7.4/cmake/config.cmake
+C:/libpqxx/libpqxx-7.7.4/cmake/libpqxx-config.cmake
+C:/libpqxx/libpqxx-7.7.4/config-tests/charconv_float.cxx
+C:/libpqxx/libpqxx-7.7.4/config-tests/charconv_int.cxx
+C:/libpqxx/libpqxx-7.7.4/config-tests/cmp.cxx
+C:/libpqxx/libpqxx-7.7.4/config-tests/concepts.cxx
+C:/libpqxx/libpqxx-7.7.4/config-tests/cxa_demangle.cxx
+C:/libpqxx/libpqxx-7.7.4/config-tests/fs.cxx
+C:/libpqxx/libpqxx-7.7.4/config-tests/gcc_pure.cxx
+C:/libpqxx/libpqxx-7.7.4/config-tests/gcc_visibility.cxx
+C:/libpqxx/libpqxx-7.7.4/config-tests/likely.cxx
+C:/libpqxx/libpqxx-7.7.4/config-tests/multidim-subscript.cxx
+C:/libpqxx/libpqxx-7.7.4/config-tests/need_fslib.cxx
+C:/libpqxx/libpqxx-7.7.4/config-tests/sleep_for.cxx
+C:/libpqxx/libpqxx-7.7.4/config-tests/span.cxx
+C:/libpqxx/libpqxx-7.7.4/config-tests/strerror_r.cxx
+C:/libpqxx/libpqxx-7.7.4/config-tests/strerror_s.cxx
+C:/libpqxx/libpqxx-7.7.4/config-tests/thread_local.cxx
+C:/libpqxx/libpqxx-7.7.4/config-tests/unreachable.cxx
+C:/libpqxx/libpqxx-7.7.4/config-tests/year_month_day.cxx
+C:/projects/netology/c/sql/lesson_5/build/libpqxx-build/include/pqxx/config_cmake.h.in

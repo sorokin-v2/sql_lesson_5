@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\projects\netology\c\sql\lesson_5\build\CMakeFiles\c271507cdc6847b3a68eb804de6e8f21\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{58F03FEC-1149-380C-9EFE-A00843BD9745}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

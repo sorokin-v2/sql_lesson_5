@@ -1,0 +1,16 @@
+C:/projects/netology/c/sql/lesson_5/build/CMakeFiles/lesson_5.dir
+C:/projects/netology/c/sql/lesson_5/build/CMakeFiles/PACKAGE.dir
+C:/projects/netology/c/sql/lesson_5/build/CMakeFiles/INSTALL.dir
+C:/projects/netology/c/sql/lesson_5/build/CMakeFiles/ALL_BUILD.dir
+C:/projects/netology/c/sql/lesson_5/build/CMakeFiles/ZERO_CHECK.dir
+C:/projects/netology/c/sql/lesson_5/build/libpqxx-build/CMakeFiles/PACKAGE.dir
+C:/projects/netology/c/sql/lesson_5/build/libpqxx-build/CMakeFiles/INSTALL.dir
+C:/projects/netology/c/sql/lesson_5/build/libpqxx-build/CMakeFiles/ALL_BUILD.dir
+C:/projects/netology/c/sql/lesson_5/build/libpqxx-build/src/CMakeFiles/pqxx.dir
+C:/projects/netology/c/sql/lesson_5/build/libpqxx-build/src/CMakeFiles/PACKAGE.dir
+C:/projects/netology/c/sql/lesson_5/build/libpqxx-build/src/CMakeFiles/INSTALL.dir
+C:/projects/netology/c/sql/lesson_5/build/libpqxx-build/include/CMakeFiles/PACKAGE.dir
+C:/projects/netology/c/sql/lesson_5/build/libpqxx-build/include/CMakeFiles/INSTALL.dir
+C:/projects/netology/c/sql/lesson_5/build/libpqxx-build/test/CMakeFiles/runner.dir
+C:/projects/netology/c/sql/lesson_5/build/libpqxx-build/test/CMakeFiles/PACKAGE.dir
+C:/projects/netology/c/sql/lesson_5/build/libpqxx-build/test/CMakeFiles/INSTALL.dir
